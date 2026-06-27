@@ -1,1 +1,1 @@
-It is  a website wich let you sell and  buy products through Aucion.
+It is  a website which let you sell and  buy products through Aucion.
